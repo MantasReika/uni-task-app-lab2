@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyLab2</string>
+    <string name="btn_count">Count</string>
+    <string name="label_count">Count:</string>
+</resources>
